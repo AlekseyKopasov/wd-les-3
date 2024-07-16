@@ -13,3 +13,13 @@
 .black-image h2 {
   color: #ffffff;
 }
+
+mark.important {
+  background-color: var(--color-red);
+  color: #ffffff;
+}
+
+mark.ignore {
+  background-color: var(--color-blue-lighter);
+  color: #ffffff;
+}
